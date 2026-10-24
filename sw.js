@@ -1,6 +1,6 @@
 // Service worker do Chama: deixa o app funcionar offline.
 // Ao mudar qualquer arquivo do app, aumente a versão abaixo para forçar a atualização.
-var VERSION = "rotina-sw-v1";
+var VERSION = "rotina-sw-v2";
 var CORE = [
   "./",
   "./index.html",
